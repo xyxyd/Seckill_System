@@ -1,0 +1,13 @@
+{
+  "userId": 1001,
+  "username": "seckill_user",
+  "nickname": "秒杀小能手",
+  "avatar": "https://example.com/avatar/1001.png",
+  "level": "VIP2",
+  "phone": "138****8888",
+  "email": "user@example.com",
+  "points": 1200,
+  "seckillSuccessCount": 8,
+  "lastLoginAt": "2026-11-24 19:30:00",
+  "createdAt": "2026-11-20 09:00:00"
+}
